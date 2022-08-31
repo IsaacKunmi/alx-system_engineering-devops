@@ -10,3 +10,4 @@ Create a script that creates a directory
 Move the file
 Delete the file betty
 Delete the directory my_first_directory
+a script that changes the working directory to the previous one.
