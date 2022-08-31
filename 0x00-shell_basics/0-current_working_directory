@@ -1,3 +1,2 @@
 #!/bin/bash
-realpath -s 0-current_working_directory
-
+find "$PWD"
