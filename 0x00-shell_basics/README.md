@@ -7,3 +7,4 @@ Long format
 with user and group IDs displayed numerically
 And hidden files
 Create a script that creates a directory
+Move the file
