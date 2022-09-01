@@ -13,3 +13,5 @@ Group: no permission at all
 Other users: all the permissions
 
 a script that sets the mode of the file hello
+
+Write a script that sets the mode of the file hello the same as olleh’s mode
